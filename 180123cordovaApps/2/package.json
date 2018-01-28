@@ -1,0 +1,13 @@
+{
+  "name": "to6659.cdee22c.r25daz3u",
+  "version": "1.0.0",
+  "displayName": "굿티비",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "~7.0.0"
+  }
+}

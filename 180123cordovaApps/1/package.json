@@ -1,0 +1,13 @@
+{
+  "name": "dd8d.f8efe.cdc8kkc",
+  "version": "1.0.0",
+  "displayName": "즐티비",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "~7.0.0"
+  }
+}

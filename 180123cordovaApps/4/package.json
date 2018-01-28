@@ -1,0 +1,13 @@
+{
+  "name": "raa9bb.a6659a4xl",
+  "version": "1.0.0",
+  "displayName": "큐티비",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "~7.0.0"
+  }
+}

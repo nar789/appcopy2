@@ -1,0 +1,13 @@
+{
+  "name": "rw86659abb.bcc895cd",
+  "version": "1.0.0",
+  "displayName": "밤티비",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "~7.0.0"
+  }
+}

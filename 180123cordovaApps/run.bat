@@ -1,0 +1,1 @@
+cd 1 && run.bat && cd .. && cd 2 && run.bat && cd .. && cd 3 && run.bat && cd .. && cd 4 && run.bat && cd .. && cd 5 && run.bat && cd .. 

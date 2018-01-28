@@ -1,0 +1,13 @@
+{
+  "name": "rs6659aa.d665aa.a665aa74",
+  "version": "1.0.0",
+  "displayName": "핫티비",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "~7.0.0"
+  }
+}
